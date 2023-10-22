@@ -1,0 +1,26 @@
+/* Place.css */
+
+.place-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px;
+    background-color: #f7f7f7;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .place-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .place-description {
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  
+  .place-details {
+    font-size: 14px;
+    color: #555;
+  }
+  
